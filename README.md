@@ -75,7 +75,7 @@ streamlit run Dashboard.py
 ![Screenshot 2024-10-01 031202](https://github.com/user-attachments/assets/bc642d46-ff1b-4c5f-9372-b3b29ae2c6c2)
 ![Screenshot 2024-10-01 031214](https://github.com/user-attachments/assets/bcc27aa8-f726-412b-87a4-ba77d523e484)
 ![Screenshot 2024-10-01 031225](https://github.com/user-attachments/assets/c8ba9d7c-3aab-40d4-938b-fcd1ae36e205)
-![Screenshot 2024-10-01 031252](https://github.com/user-attachments/assets/9d903e72-82a5-4996-850c-3e859b57dd02)
+![image](https://github.com/user-attachments/assets/e1455a33-c544-4975-ab2b-2b4dec3c31c0)
 ![Screenshot 2024-10-01 031308](https://github.com/user-attachments/assets/e0d72e23-ae23-4f52-a2d7-802e588c39b5)
 ![Screenshot 2024-10-01 031323](https://github.com/user-attachments/assets/14991e02-f0f1-44d8-ab71-53efb5015f58)
 
