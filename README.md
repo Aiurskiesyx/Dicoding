@@ -1,6 +1,6 @@
 # BIKESHARING DICODING
 
-Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data dengan Python" di Dicoding. Di sini, saya menganalisis dataset penyewaaan sepeda dan membuat dashboard interaktif berbasis Streamlit. Tahapan yang saya lakukan meliputi pembersihan data, eksplorasi data untuk menemukan pola, serta visualisasi menggunakan grafik interaktif. silahkan akses dashboardnya disini 
+Proyek ini adalah bagian dari tugas akhir dalam kursus "Belajar Analisis Data dengan Python" di Dicoding. Di sini, saya menganalisis dataset penyewaaan sepeda dan membuat dashboard interaktif berbasis Streamlit. Tahapan yang saya lakukan meliputi pembersihan data, eksplorasi data untuk menemukan pola, serta visualisasi menggunakan grafik interaktif. Dashboard dapat diakses pada link berikut https://bikerentalset.streamlit.app/
 
 # 1. File Struktur
 ```plaintext
